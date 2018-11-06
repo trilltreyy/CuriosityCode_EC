@@ -74,4 +74,3 @@ rect(380,440,40,10);
 rect(380,460,40,10);
 rect(380,480,40,10);
 
-save("TREYVONFIELDS.Curiosity.Drawing");
